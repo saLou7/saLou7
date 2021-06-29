@@ -1,16 +1,30 @@
 ### Hi there 👋
+[+] إخلاء المسؤولية:
+هذه الأداة للأغراض التعليمية فقط. المطور ليس مسؤولاً عن أي إساءة استخدام لها.
 
-<!--
-**saLou7/saLou7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[+] التثبيت
+pkg install figlet
 
-Here are some ideas to get you started:
+pkg install python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+git clone https://github.com/KasRoudra/autoreport
+
+cd autoreport
+
+chmod +x ar.py
+
+python ar.py
+
+أو استخدم أمر واحد
+pkg install figlet && pkg install python && git clone https://github.com/KasRoudra/autoreport && cd autoreport && chmod +x ar.py && python ar.py
+لقطات:
+
+
+اسم مستخدم الأداة: KasRoudra
+كلمة مرور الأداة: kaspass
+Google FindMyId ، اختر موقعًا إلكترونيًا ، وأدخل رابط ملف تعريف الضحية على facebook في موقع الويب ، ثم أنشئ المعرف الرقمي وانسخه في الحافظة.
+[+] عندما يُطلب منك البرنامج النصي ، أدخل أو الصق هذا المعرف في إدخال معرف الهدف!
+[+] ابحث عني على:
+موقع التواصل الاجتماعي الفيسبوك
+رسول
+البريد الإلكتروني
