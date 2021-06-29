@@ -7,21 +7,21 @@ pkg install figlet
 
 pkg install python
 
-git clone https://github.com/KasRoudra/autoreport
+git clone https://github.com/saLou7/saLou7
 
-cd autoreport
+cd saLou7
 
 chmod +x ar.py
 
 python ar.py
 
 أو استخدم أمر واحد
-pkg install figlet && pkg install python && git clone https://github.com/KasRoudra/autoreport && cd autoreport && chmod +x ar.py && python ar.py
+pkg install figlet && pkg install python && git clone https://github.com/saLou7/saLou7 && cd autoreport && chmod +x ar.py && python ar.py
 لقطات:
 
 
-اسم مستخدم الأداة: KasRoudra
-كلمة مرور الأداة: kaspass
+اسم مستخدم الأداة: saLou7
+كلمة مرور الأداة: saLou7
 Google FindMyId ، اختر موقعًا إلكترونيًا ، وأدخل رابط ملف تعريف الضحية على facebook في موقع الويب ، ثم أنشئ المعرف الرقمي وانسخه في الحافظة.
 [+] عندما يُطلب منك البرنامج النصي ، أدخل أو الصق هذا المعرف في إدخال معرف الهدف!
 [+] ابحث عني على:
